@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Module03Practice
+namespace module03practice
 {
     class Practice2
     {

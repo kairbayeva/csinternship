@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleAppModule02Practice
+namespace Module02Practice
 {
     internal class Practice17
     {

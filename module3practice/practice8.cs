@@ -1,6 +1,6 @@
-﻿/*using System;
+﻿using System;
 
-class Program
+class Practice8
 {
     static void Main()
     {
@@ -40,4 +40,3 @@ class Program
         return true;
     }
 }
-*/

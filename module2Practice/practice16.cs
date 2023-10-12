@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppModule02Practice
+namespace Module02Practice
 {
     internal class practice16
     {
