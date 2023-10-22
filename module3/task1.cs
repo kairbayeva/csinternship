@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleAppModule03
+namespace AppModule03
 {
     internal class task1
     {
