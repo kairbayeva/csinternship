@@ -9,6 +9,5 @@
 
   <ItemGroup>
     <ProjectReference Include="..\vv\module06.csproj" />
-    <ProjectReference Include="..\bankomat\bankomat.csproj" />
   </ItemGroup>
 </Project>
