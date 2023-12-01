@@ -44,8 +44,8 @@ namespace module_14
         {
             Console.WriteLine("Статистика слов в тексте:");
             Console.WriteLine("_________________________");
-            Console.WriteLine("| Слово      | Количество |");
-            Console.WriteLine("___________________________");
+            Console.WriteLine("| Слово     | Количество|");
+            Console.WriteLine("_________________________");
 
             foreach (var pair in wordStatistics)
             {
